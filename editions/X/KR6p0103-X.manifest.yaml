@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6p0103/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0103/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 念佛百問
+  identifiers:
+    krp: KR6p0103
+    cbeta: X62n1184
+    cbeta_old_id: X62n1184
+    authorityid: CA0002354
+    json_key: X1184
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1184.xml
+    old_id: X62n1184
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0103_000-X.yaml, hash: 'sha256:8211d25110f662b34e6f37d587bf49d578e9ded17df879ddb12bd826a81dc5de'}
+  - {seq: 1, filename: KR6p0103_001-X.yaml, hash: 'sha256:a7b8a832d0188846e73f330cd43b9265c974654684f638854198df2d97c95c9a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0103_000-X.markers.yaml, hash: 'sha256:d00fe3017bbb2bcdcb0cb685934d5df3286f2d7fcdd95315e0f3e0f2f8e4ef8a'}
+  - {seq: 1, role: markers, filename: assets/KR6p0103_001-X.markers.yaml, hash: 'sha256:f2e791bd7af6bb7e7d47ff418ef4cb77c3d976c210241997028ec3de4b128297'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0103_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1184-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0103_X_000-mulu-2
+    span:
+    - front
+    - 544
+    - 544
+  label: No. 1184-B 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0103_X_000-mulu-3
+    span:
+    - front
+    - 706
+    - 706
+  label: 例言四則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0103_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11132
+  label: 念佛百問
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0103_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 念佛百問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0103_X_001-mulu-2
+    span:
+    - body
+    - 11002
+    - 11002
+  label: No. 1184-C 䟦
+  type: mulu
+  level: 1
+hash: sha256:c87c97f2e496d1fc4debad7509acc4bd95279687a64622708e9a5cf00d467a12
