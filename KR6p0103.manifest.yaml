@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0103_000.yaml, hash: 'sha256:73f8495bb3b5bb95b6b470583c6bc6063b553df0dea2956e63f2f7a027949395'}
+  - {seq: 0, filename: KR6p0103_000.yaml, hash: 'sha256:1ea623ab5a8cd29a8b42ad07e8eccf53ddaa092785b0bb44021ba8244a7f89d4'}
   - {seq: 1, filename: KR6p0103_001.yaml, hash: 'sha256:6f31785f9c0119ee2dfd4e740a108d897d9eb53b3858da25ae2789eb51b11162'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0103_000.markers.yaml, hash: 'sha256:0ec582e1c584208ab81044c020945959e5c32bd44669dbba44c03817e8f0d8ff'}
+  - {seq: 0, role: markers, filename: assets/KR6p0103_000.markers.yaml, hash: 'sha256:e8fb4d034e0edccecf92a08d75acc13216bd174ff44574ffc5175cb791e169ba'}
   - {seq: 1, role: markers, filename: assets/KR6p0103_001.markers.yaml, hash: 'sha256:b0dc774e33267090be3646552e9b6b9df1c767a155884595092279eb3f0b5930'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0103_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1184-A 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0103_X_000-mulu-2
     span:
-    - front
+    - body
     - 544
     - 544
   label: No. 1184-B 自序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0103_X_000-mulu-3
     span:
-    - front
+    - body
     - 706
     - 706
   label: 例言四則
@@ -87,7 +87,7 @@ table_of_contents:
   label: No. 1184-C 䟦
   type: mulu
   level: 1
-hash: sha256:ef8a780fc17f942f5ab7aa9a0fc715fe52ca095b025470744491a06ba9b418e3
+hash: sha256:e665add80caae44964a1c5a60d71a81c5f38597506415084d9882df4f2a26adb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
